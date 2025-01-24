@@ -98,11 +98,6 @@ Sales.API/
    dotnet run
    ```
 
-5. Access the Swagger UI for API documentation at:
-
-   ```
-   ```
-
 [http://localhost:5000/swagger](http://localhost:5000/swagger)
 
 ````
